@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jaeho.DESKTOP-GHVOLU2\\Downloads\\2371197-\uC774\uC7AC\uD638-TermProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DB784-62CF-4EFA-AF59-AD36230851D7}|TermProject.vcxproj|C:\\Users\\Jaeho.DESKTOP-GHVOLU2\\Downloads\\2371197-\uC774\uC7AC\uD638-TermProject\\\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B7DB784-62CF-4EFA-AF59-AD36230851D7}|TermProject.vcxproj|solutionrelative:\uC18C\uC2A4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC18C\uC2A4.c",
+              "DocumentMoniker": "C:\\Users\\Jaeho.DESKTOP-GHVOLU2\\Downloads\\2371197-\uC774\uC7AC\uD638-TermProject\\\uC18C\uC2A4.c",
+              "RelativeDocumentMoniker": "\uC18C\uC2A4.c",
+              "ToolTip": "C:\\Users\\Jaeho.DESKTOP-GHVOLU2\\Downloads\\2371197-\uC774\uC7AC\uD638-TermProject\\\uC18C\uC2A4.c",
+              "RelativeToolTip": "\uC18C\uC2A4.c",
+              "ViewState": "AgIAABIKAAAAAAAAAAAAACAJAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-30T06:16:48.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

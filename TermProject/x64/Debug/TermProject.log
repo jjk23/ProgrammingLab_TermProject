@@ -1,0 +1,14 @@
+﻿  소스.c
+C:\Users\Jaeho.DESKTOP-GHVOLU2\Downloads\2371197-이재호-TermProject\소스.c(1272,9): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jaeho.DESKTOP-GHVOLU2\Downloads\2371197-이재호-TermProject\소스.c(1464,9): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jaeho.DESKTOP-GHVOLU2\Downloads\2371197-이재호-TermProject\소스.c(1744,9): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jaeho.DESKTOP-GHVOLU2\Downloads\2371197-이재호-TermProject\소스.c(1777,9): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jaeho.DESKTOP-GHVOLU2\Downloads\2371197-이재호-TermProject\소스.c(1796,9): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jaeho.DESKTOP-GHVOLU2\Downloads\2371197-이재호-TermProject\소스.c(1921,9): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jaeho.DESKTOP-GHVOLU2\Downloads\2371197-이재호-TermProject\소스.c(2029,9): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jaeho.DESKTOP-GHVOLU2\Downloads\2371197-이재호-TermProject\소스.c(2137,9): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jaeho.DESKTOP-GHVOLU2\Downloads\2371197-이재호-TermProject\소스.c(2245,9): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jaeho.DESKTOP-GHVOLU2\Downloads\2371197-이재호-TermProject\소스.c(2353,9): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jaeho.DESKTOP-GHVOLU2\Downloads\2371197-이재호-TermProject\소스.c(2447,9): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jaeho.DESKTOP-GHVOLU2\Downloads\2371197-이재호-TermProject\소스.c(2718,14): warning C4244: '초기화 중': 'TCHAR'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TermProject.vcxproj -> C:\Users\Jaeho.DESKTOP-GHVOLU2\Downloads\2371197-이재호-TermProject\x64\Debug\TermProject.exe
